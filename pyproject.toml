@@ -1,6 +1,6 @@
 [project]
 name = "fast-colors"
-version = "1.0.0"
+version = "1.0.1"
 description = "A simple and lightweight module for coloring your texts."
 authors = [{name = "Lag3n", email = "fast-colors.devotion971@passmail.com"}]
 readme = "README.md"
